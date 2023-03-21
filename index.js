@@ -1,5 +1,9 @@
 console.log('la hostia')
 
-while (true) {
+setInterval(function() {
+  alert('yos que guineo')
+},1000)
+
+while (true || false) {
   console.log('aprender git es guay');
 }
